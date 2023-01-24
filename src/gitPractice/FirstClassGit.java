@@ -7,5 +7,11 @@ public class FirstClassGit {
 		System.out.println ("This is Test from Local Repo");
 
 	}
+	
+	public void test() {
+		// TODO Auto-generated method stub
+		System.out.println ("This is Test from Local Repo 2");
 
+}
+	
 }
