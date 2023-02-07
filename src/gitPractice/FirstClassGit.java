@@ -10,7 +10,7 @@ public class FirstClassGit {
 	
 	public void test() {
 		// TODO Auto-generated method stub
-		System.out.println ("This is Test from Local Repo 2");
+		System.out.println ("This is Test from Local Repo 2 to be witnessed");
 
 }
 	
